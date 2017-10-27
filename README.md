@@ -11,7 +11,6 @@ MemoryLeakSamples,contant context leak、staic leak、thread leak
 
 you can scan the qrcode for download demo apk
 
-![](images/code.png)
     
 
 # Document
